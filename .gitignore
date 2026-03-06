@@ -1,0 +1,12 @@
+# Environnement virtuel
+.venv/
+
+# Variables sensibles
+.env
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
